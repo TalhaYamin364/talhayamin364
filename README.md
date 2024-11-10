@@ -8,4 +8,3 @@ I reside in Bangladesh and have over three years of experience working on Data, 
 
 - 💬 Ask me about data or videogames because I am your man for the job.
 - 📫 How to reach me: https://www.linkedin.com/in/talha-yamin/
--->
