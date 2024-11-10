@@ -1,7 +1,4 @@
 ### Hi there 👋, my name is Talha Yamin
-#### Data Analytics and Engineering
-![Data Analytics and Engineering](https://www.linkedin.com/in/talha-yamin/overlay/background-image/)
-
 I reside in Bangladesh and have over three years of experience working on Data, currently employed as a Senior Data Analyst at Optimizely. My focus has always been to contribute to engineering-focused data initiatives and foster a data-literate culture.
 
 Skills: SQL / Python / dbt / Power BI / Tableau
@@ -13,8 +10,6 @@ Skills: SQL / Python / dbt / Power BI / Tableau
 [![trophy](https://github-profile-trophy.vercel.app/?username=TalhaYamin364)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TalhaYamin364&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/TalhaYamin364)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=TalhaYamin364)  
 
