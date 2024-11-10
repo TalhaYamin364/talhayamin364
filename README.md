@@ -8,7 +8,7 @@ Skills: SQL / Python / dbt / Power BI / Tableau
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TalhaYamin364)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/talha-yamin/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TalhaYamin364)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/talha-yamin/)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=TalhaYamin364)](https://github.com/ryo-ma/github-profile-trophy)
 
