@@ -14,7 +14,7 @@ I reside in Bangladesh and have over three years of experience working on Data, 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/talha-yamin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Wolfsbane169/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/@talhayamin9311)  
 [![trophy](https://github-profile-trophy.vercel.app/?username=TalhaYamin364)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TalhaYamin364&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TalhaYamin364&show_icons=true&theme=dark)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=TalhaYamin364)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=TalhaYamin364&theme=dark)  
 
