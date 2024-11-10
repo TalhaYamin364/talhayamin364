@@ -1,10 +1,20 @@
-## Hi there 👋
-
-I'm Talha Yamin
+### Hi there 👋, my name is Talha Yamin
+#### Data Analytics and Engineering
+![Data Analytics and Engineering](https://www.linkedin.com/in/talha-yamin/overlay/background-image/)
 
 I reside in Bangladesh and have over three years of experience working on Data, currently employed as a Senior Data Analyst at Optimizely. My focus has always been to contribute to engineering-focused data initiatives and foster a data-literate culture.
 
-[![Talha's GitHub stats](https://github-readme-stats.vercel.app/api?username=TalhaYamin364)](https://github.com/anuraghazra/github-readme-stats)
+Skills: SQL / Python / dbt / Power BI / Tableau
 
-- 💬 Ask me about data or videogames because I am your man for the job.
-- 📫 How to reach me: https://www.linkedin.com/in/talha-yamin/
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TalhaYamin364)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/talha-yamin/)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=TalhaYamin364)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TalhaYamin364&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/TalhaYamin364)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=TalhaYamin364)  
+
