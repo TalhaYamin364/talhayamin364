@@ -1,6 +1,6 @@
 # Hi, I'm Talha Yamin 👋
 
-**Data engineer · pipelines, warehouses and streaming** · Dhaka, Bangladesh
+**Analytics Engineer · pipelines, warehouses and streaming** · Dhaka, Bangladesh
 
 Nearly five years building the data infrastructure behind analytics, currently as a Senior Data Analyst (Analytics Engineering) at Optimizely. My day-to-day is production engineering: Python ingestion into Snowflake on Kubernetes, tested dbt marts, cost-controlled warehouses with Terraform, and CI that builds and diffs changes against production before review.
 
