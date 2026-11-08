@@ -38,7 +38,7 @@ Nearly five years building the data infrastructure behind analytics, currently a
 
 ## Find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-yamin/) [![Website](https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://TalhaYamin364.github.io) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@talhayamin9311) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Wolfsbane169/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-yamin/) [![Website](https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://TalhaYamin364.github.io) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@talhayamin9311)
 
 ![Followers](https://img.shields.io/github/followers/TalhaYamin364?style=for-the-badge&logo=github&color=181717) ![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FTalhaYamin364&query=%24.public_repos&label=Public%20repos&style=for-the-badge&logo=github&color=181717)
 
