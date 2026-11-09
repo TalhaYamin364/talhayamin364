@@ -40,6 +40,4 @@ Nearly five years building the data infrastructure behind analytics, currently a
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-yamin/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@talhayamin9311)
 
-![Followers](https://img.shields.io/github/followers/TalhaYamin364?style=for-the-badge&logo=github&color=181717) ![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FTalhaYamin364&query=%24.public_repos&label=Public%20repos&style=for-the-badge&logo=github&color=181717)
-
 [![GitHub streak](https://streak-stats.demolab.com/?user=TalhaYamin364&theme=dark&hide_border=true)](https://github.com/TalhaYamin364)
